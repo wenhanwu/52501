@@ -1,3 +1,0 @@
-function here(){
-	alert("www!");
-}
